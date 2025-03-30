@@ -7,6 +7,10 @@
 <li>The dataset consists of 5 tables, each populated with 500 rows</li>
 </ul>
 
+## Database used:
+
+Postgres
+
 ## Tasks completed:
 
 <ol>
